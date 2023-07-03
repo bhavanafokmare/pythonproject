@@ -1,2 +1,2 @@
 # pythonproject
-this is my first python project on github
+this is my first Python project on GitHub
